@@ -1,0 +1,39 @@
+_repo: Adventures-of-Hans-Sterk--The-South-African-Hunter-and-Pioneer_32559
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Zwecker, Johann Baptist
+    alias: Zwecker
+    birthdate: 1814
+    deathdate: 1876
+    gutenberg_agent_id: '33063'
+    url: http://www.gutenberg.org/2009/agents/33063
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Drayson, Alfred W. (Alfred Wilks)
+    aliases:
+    - Drayson, A. W. (Alfred Wilks)
+    - Drayson, A.W. (Alfred Wilks)
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '35914'
+    url: http://www.gutenberg.org/2009/agents/35914
+description: ''
+gutenberg_issued: '2010-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Africa -- Fiction'
+- !lcsh 'Zulu (African people) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'South African War, 1899-1902 -- Fiction'
+title: 'Adventures of Hans Sterk: The South African Hunter and Pioneer'
+url: http://www.gutenberg.org/ebooks/32559
